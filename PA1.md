@@ -173,6 +173,7 @@ print(avgi); print(medi)
 ## [1] 10762
 ```
 
+
 ```r
 g <- ggplot(data=df.imp, aes(x=totalsteps))
 g + geom_histogram(binwidth=550, col="black", fill="grey") +
