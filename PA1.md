@@ -255,6 +255,7 @@ g + geom_line() +
 ```
 
 ![plot of chunk timeseriespanel](figure/timeseriespanel-1.png) 
+
 The **mean** average number of steps for weekdays is $36$.  
 The **mean** average number of steps for weekends is $42$.  
 *Note: In plot above, means are denoted respectivley by blue color horizontal lines.*    

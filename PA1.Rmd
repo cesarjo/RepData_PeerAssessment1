@@ -171,7 +171,8 @@ g + geom_line() +
     labs(title = "Time Series of 5-Minute Interval and Average Steps by Weekday & Weekend",
          x = "5-min Interval",
          y = "Avgerage Number of Steps")
-```
+```  
+
 The **mean** average number of steps for weekdays is $`r round(avgwd, 0)`$.  
 The **mean** average number of steps for weekends is $`r round(avgwe, 0)`$.  
 *Note: In plot above, means are denoted respectivley by blue color horizontal lines.*    
