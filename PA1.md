@@ -183,7 +183,8 @@ g + geom_histogram(binwidth=550, col="black", fill="grey") +
          x = "Number of Daily Steps")
 ```
 
-![plot of chunk newhistogramtotalsteps](figure/newhistogramtotalsteps-1.png) 
+<img src="figure/newhistogramtotalsteps-1.png" title="plot of chunk newhistogramtotalsteps" alt="plot of chunk newhistogramtotalsteps" style="display: block; margin: auto;" />
+
 The **mean** value is $1.0766 &times; 10<sup>4</sup>$ and the **median** value is $1.0762 &times; 10<sup>4</sup>$.  
 *Note: In the histogram above, the mean is denoted by the red color vertical line and the median by the blue color vertical line.*  
 
